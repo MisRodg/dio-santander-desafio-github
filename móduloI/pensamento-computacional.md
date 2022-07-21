@@ -1,11 +1,12 @@
-# Introdução ao Git e Github :desktop_computer:
+# Introdução ao Pensamento Computacional  :thinking:
 
 ## Minhas anotações
 
-- Introdução ao Git
-- Navegação via Command Line Interface
-- Entendendo como Git funciona por baixo dos panos
-- Primeiros comandos com Git
-- Ciclo de vida dos arquivos no Git
-- Introdução ao Github
-- Resolvendo Conflitos
+- Pensamento Computacional
+
+* Introdução à Lógica de Programação
+* Fundamentos de Algoritmos
+* Linguagens de Programação
+* Primeiro contato com a Programação
+
+## 
